@@ -1,6 +1,6 @@
 # Hi all, I'm junior -  [Bay Developer](https://youtu.be/bsEwMCoAnFI) 👋
 ## About me:
-- 🔭 I haven't worked yet, but I'm studying at Al - Khairiyah university(https://www.unival.ac.id/)
+- 🔭 I haven't worked yet, but I'm studying at [Al - Khairiyah university](https://www.unival.ac.id/)
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I am currently mastering HTML, CSS, BOOTSTRAP, I also understand and master the Linux operating system, namely in web penetration tests, etc.
 - 🤔 I can also make the front of the website or what is called the Front End Web Developer.
